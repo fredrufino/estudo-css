@@ -1,0 +1,20 @@
+html,body{
+   height: 100%;
+}
+
+.box, .box2{
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    background: gray;
+    display: none;
+
+}
+
+.box p, .box2 p{
+    width: 500px;
+}
+
+.box2{
+    display: block;
+}

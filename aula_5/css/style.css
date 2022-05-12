@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+   height: 100%;
+}
+
+.artigo{
+    width: 4%;
+    text-align: center;
+    background-color: rgb(87, 86, 84);
+}
+
+.artigo h1{
+    color: blue;
+    font-size: 30px;
+    font-family:  "Times New Roman", Times, serif;
+    /*font-style: italic;*/
+    /*font-weight: normal;*/
+    /*font-variant: small-caps;*/
+}
+
+.artigo p{
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    font-family:  "Times New Roman", Times, serif;
+    margin-top: 12px;
+    line-height: 40px;
+    text-align: center;
+}

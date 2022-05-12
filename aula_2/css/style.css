@@ -1,0 +1,28 @@
+.div1 h1{
+    color: rgb(129, 127, 255);
+}
+
+/* 
+#div1 > h1{
+    color: blue;
+}
+> - ataque o h1 apenas se ele estiver dento da div dom id div1, 
+por exemplo, se tiver outra div dentro da div1, ele n ataca
+*/
+
+/*
+#div1 h1{
+    color: blue;
+}
+
+Já esse altera tudo que esta nessa div, incluindo subdivs
+*/
+
+/*
+.div1 h1{
+    color: rgb(129, 127, 255);
+}
+
+com . vc chama a classe
+*/
+
